@@ -1,0 +1,12 @@
+{
+    "name": "alexpw/multicurl-iterator",
+    "require": {
+        "php": ">=5.3.0"
+    },
+    "require-dev": {
+        "alexpw/timer": "dev-master"
+    },
+    "autoload": {
+        "psr-4": {"Alexpw\\Multicurl\\": "src/Alexpw/Multicurl"}
+    }
+}
